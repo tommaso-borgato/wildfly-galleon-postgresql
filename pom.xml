@@ -17,7 +17,7 @@
         <testsuite.galleon.pack.groupId>org.wildfly</testsuite.galleon.pack.groupId>
         <testsuite.galleon.pack.artifactId>wildfly-galleon-pack</testsuite.galleon.pack.artifactId>
         <testsuite.galleon.pack.version>21.0.0.Beta1</testsuite.galleon.pack.version>
-        <version.org.wildfly.jar.plugin>2.0.0.Beta8</version.org.wildfly.jar.plugin>
+        <version.org.wildfly.jar.plugin>2.0.0.Beta9</version.org.wildfly.jar.plugin>
     </properties>
 
     <!--

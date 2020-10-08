@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>galleon-postgresql-web</artifactId>
+    <packaging>war</packaging>
 
     <name>WildFly bootable jar with postgresql Example</name>
 
