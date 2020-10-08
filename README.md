@@ -1,5 +1,8 @@
 # wildfly-galleon-postgresql
 
+This repository contains a complete example on how to create a WildFly Bootable Jar which connects to an external 
+postgresql database;
+
 ## Start a POSTGRESQL database
 
 ```shell script
